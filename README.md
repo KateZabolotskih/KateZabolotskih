@@ -23,9 +23,9 @@
 ### About Me :
 I am a Back-End Developer.
 
-- I am working as a Software Engineer and contributing to backend for building various services for laboratory healthcare industry.
+- Working as a Software Engineer and contributing to backend for building various services for laboratory healthcare industry.
 
-- I am highly motivated towards developing in the .net community.
+- Highly motivated towards developing in the .net community.
 
 - At the moment I travel a lot and write my projects to develop professional skills.
   
