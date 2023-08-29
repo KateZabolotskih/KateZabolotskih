@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/ekaterina-zabolotskikh-a6b3a9233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="zabolotskihkate@gmail.com">
+    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/yourPrincesskkk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
