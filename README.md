@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif" width="300"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ekaterina-zabolotskikh-a6b3a9233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +14,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center"/>
+
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=KateZabolotskih&style=flat-square&color=blue" alt="" />
+</div>
 
 
 <!--
