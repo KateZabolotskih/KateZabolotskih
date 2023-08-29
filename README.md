@@ -20,16 +20,18 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Back-End Developer.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I’m working as a Software Engineer and contributing to backend for building various services for laboratory healthcare industry.
 
-- :seedling: Exploring Technical Content Writing.
+- I am highly motivated towards developing in the .net community.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- At the moment I travel a lot and write my projects to develop professional skills.
+  
+- Always open to cooperation and collaboration :)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kate-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-zabolotskikh-a6b3a9233/)
 
 ---
 
