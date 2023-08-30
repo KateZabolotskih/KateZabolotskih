@@ -58,9 +58,9 @@ I am a Back-End Developer.
 
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateZabolotskih&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateZabolotskih&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateZabolotskih&theme=radical&hide_border=true&border_radius=3.9&card_width=498)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateZabolotskih&theme=highcontrast&hide_border=true&border_radius=3.9&card_width=498)](https://git.io/streak-stats)
 
 <!--
 **KateZabolotskih/KateZabolotskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
